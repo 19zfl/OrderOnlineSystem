@@ -18,6 +18,7 @@
 **src\jdbc\LoginServlet.java
 src\jdbc\RegisterServlet.java
 src\util\DBUtil.java** 
+
 这三个文件中的 *jdbc:mysql://localhost:3306/test", "root", "123456"* 
 tset和123456需要自己创建数据库和改成自己的密码
 
