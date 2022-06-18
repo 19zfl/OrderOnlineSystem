@@ -10,6 +10,7 @@
 -   我一般选择Workspace default JRE
 -   配置好之后Server Runtime也需要配置自己系统的Tomcat版本
 -   这两个配置好后apply and close
+
 **ItelliJ Idea**
 -   idea我不建议导包，自己创建web项目后将相应的文件移过去就行了
 -------
