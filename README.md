@@ -30,6 +30,6 @@ tset和123456需要自己创建数据库和改成自己的密码
 在数据库的表中创建dinnercar，food，foodtype，user
 
 dinnercar：
-|id|userid|foodid|
-|1|3|7
-|2|4|7|
+| id | userid | foodid |
+| 1 | 3 | 7 |
+| 2 | 4 | 7 |
