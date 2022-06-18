@@ -31,7 +31,7 @@ tset和123456需要自己创建数据库和改成自己的密码
 
 dinnercar：
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Command | Description | foodid |
+| --- | --- | --- |
+| git status | List all new or modified files | 7 |
+| git diff | Show file differences that haven't been staged | 1 |
