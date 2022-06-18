@@ -47,11 +47,13 @@ food：
 
 id:
 | id | typename |
+| --- | --- |
 | 1 | name1 |
 | 2 | name2 |
 
 user:
 
 | id | username | password | ident | telephone | address |
+| --- | --- | --- | --- | --- | --- |
 | 1 | name | 123 | 1 | xxxx | xxx |
 | 2 | name | 123 | 0 | xxxx | xxx |
