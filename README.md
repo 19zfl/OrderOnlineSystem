@@ -35,3 +35,23 @@ dinnercar：
 | --- | --- | --- |
 | 1 | 3 | 7 |
 | 2 | 4 | 1 |
+
+多建一些比较好
+
+food：
+
+| id | foodname | feature | material | price | type | picture | hits | comment |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | name1 | null | null | null | null | null | null | null |
+| 2 | name1 | null | null | null | null | null | null | null |
+
+id:
+| id | typename |
+| 1 | name1 |
+| 2 | name2 |
+
+user:
+
+| id | username | password | ident | telephone | address |
+| 1 | name | 123 | 1 | xxxx | xxx |
+| 2 | name | 123 | 0 | xxxx | xxx |
