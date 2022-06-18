@@ -15,11 +15,21 @@
 -   idea我不建议导包，自己创建web项目后将相应的文件移过去就行了
 -------
 ### 注意：
+
 **src\jdbc\LoginServlet.java**
+
 **src\jdbc\RegisterServlet.java**
+
 **src\util\DBUtil.java** 
-<mark>hello</mark>
+
 这三个文件中的 *jdbc:mysql://localhost:3306/test", "root", "123456"* 
 tset和123456需要自己创建数据库和改成自己的密码
 
--------
+**创建好数据库之后：**
+
+在数据库的表中创建dinnercar，food，foodtype，user
+
+dinnercar：
+|id|userid|foodid|
+|1|3|7
+|2|4|7|
