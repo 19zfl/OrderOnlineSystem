@@ -3,7 +3,7 @@
 ### 导包+配置
 **eclipse**
 -   import包
--   右键包名-Build Path-Configure Build Path里面
+-   右键包名-Build Path-Configure Build Path
 -   找到Java Build Path中的Libraries
 -   JRE System Library改成自己系统的jdk版本
 -   点击后再点击右边的edit
